@@ -1,4 +1,4 @@
-<g-emoji class="g-emoji" alias="smiley" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f603.png">😃<h1>Welcome to my Github</h1></g-emoji>
+<h1><g-emoji class="g-emoji" alias="smiley" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f603.png">😃></g-emoji>Welcome to my Github</h1>
 <h2>My nickname is Nart</h2>
 <h2>Contact : ratnart.nart@gmail.com</h2>
 <h3 dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Languages and Tools</h3>
